@@ -1,4 +1,4 @@
-This project is part of my react udmemy course that I built.
+This project is part of my react udemy course that I built.
 
 You can search github user in this application.
 
